@@ -3,7 +3,7 @@
 <p>Cari apa? Blom ada apa-apa sih disini hehehe</p>
 
 <h3>Akun lain dari @RenAllagan</h3>
-<link href="https://linktr.ee/renallagan">
+<p><link href="https://linktr.ee/renallagan">Klik</p>
 
 <!---
 RenAllagan/RenAllagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
