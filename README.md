@@ -3,7 +3,7 @@
 <p>Hanya tempat untuk menyimpan beberapa materi yang pernah saya pelajari.</p>
 
 <h3>🍁 Materi OOP</h3>
-<p>Belum ada isi.</p>
+- Belum ada isi.
 
 <h3>🍁 Materi Computer Programming</h3>
 <p>Belum ada isi.</p>
